@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random
 
-
+# Very basic visualisation of how a best fit line is decided for a bunch of data
 
 y_values = []
 x_values = []
